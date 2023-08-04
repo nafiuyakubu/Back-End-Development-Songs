@@ -1,0 +1,1 @@
+MONGODB_SERVICE=127.0.0.1 MONGODB_USERNAME=root MONGODB_PASSWORD=MjI1ODMtbmFmeWFr flask --app app run --debugger --reload
